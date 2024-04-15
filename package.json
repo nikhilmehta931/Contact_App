@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-router-dom": "^6.15.0"
+  },
+  "name": "contacts-manager-mern-stack-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
